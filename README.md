@@ -1,6 +1,6 @@
 ## Hey👋, I'm Navratan Mal
 ## 🧔 About Me
-   &nbsp;&nbsp;&nbsp;<img src='https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif' height=250 width=350 align='right'>
+   &nbsp;&nbsp;&nbsp;<img src='https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif' height=230 width=300 align='right'>
 
 - 🌱 I’m currently final Year CSE Student At **Arya College Of Engineering & IT,kukas jaipur**
 
