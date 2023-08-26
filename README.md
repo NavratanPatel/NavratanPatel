@@ -1,4 +1,7 @@
-## Hey👋, I'm Navratan Mal
+<p align="center"> <h1 align="center"> Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, </a> </h1> </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=29&pause=1000&color=007EF7&width=435&lines=I'm+Navratan+Mal;Passionate+Coder)](https://git.io/typing-svg)
+
 ## 🧔 About Me
    &nbsp;&nbsp;&nbsp;<img src='https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif' height=230 width=300 align='right'>
 
@@ -26,3 +29,5 @@ For questions or feedback, you can reach me at [navratan091@gmail.com](mailto:na
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NavratanPatel)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@NavratanPatel)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/NavratanP75)
+
+Thank you ❤️
