@@ -1,7 +1,6 @@
-## Navratan Mal
+## Hey👋, I'm Navratan Mal
 ## 🧔 About Me
-
-
+   &nbsp;&nbsp;&nbsp;<img src='https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif' height=250 width=350 align='right'>
 
 - 🌱 I’m currently final Year CSE Student At **Arya College Of Engineering & IT,kukas jaipur**
 
@@ -19,6 +18,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ## 🤝 Connect with me
 For questions or feedback, you can reach me at [navratan091@gmail.com](mailto:navratan091@gmail.com). <br><br>
