@@ -31,4 +31,6 @@ For questions or feedback, you can reach me at [navratan091@gmail.com](mailto:na
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@NavratanPatel)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/NavratanP75)
 
+![snake gif](https://github.com/NavratanPatel/NavratanPatel/blob/output/github-contribution-grid-snake.gif)
+
 Thank you ❤️
