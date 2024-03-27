@@ -8,6 +8,8 @@
 - 🌱 I’m currently final Year CSE Student At **Arya College Of Engineering & IT,kukas jaipur**
 
 - ⚡  **Exploring the programming world to learn more!!**
+<br>
+<br>
 
 ## 📚 My Skills
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://devdocs.io/c/)
